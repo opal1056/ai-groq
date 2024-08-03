@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQkwi1Rv5zgeGm0WK8X-YFslWGTDhrnOzkQ&s" alt="a title">
 </p>
-# Use Groq API key and Streamlit to make an AI Chatbot interface
+## Use Groq API key and Streamlit to make an AI Chatbot interface
 Here are some instructions you can  use to make an AI interface using the official Groq API, which you can find here: https://console.groq.com/keys
 ## Step 1: Get API key
 The first step of this project is to get the free API key for Groq. Navigate to this link: https://console.groq.com/keys. Create an account if you need to. Click create API key, make a display name for the key, and copy the API key provided and save it  somewhere, as Groq will not display the API key again.
